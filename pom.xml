@@ -34,7 +34,7 @@
 		</dependency>
 
 		<!-- <dependency>
-		  <groupId>org.sonarsource.java raj</groupId>
+		  <groupId>org.sonarsource.java</groupId>
 		  <artifactId>sonar-jacoco-listeners</artifactId>
 		  <version>3.8</version>
 		  <scope>test</scope>
